@@ -3,6 +3,7 @@
 A grounded, zero-hallucination AI assistant representing my professional background.
 
 ## Quickstart (Under 5 minutes)
+*Note: This project is configured to run completely offline using a local Ollama instance (port 11434) and the  model to ensure zero API rate-limiting and maximum data privacy during evaluation.*
 1. Install dependencies: `pip install -r requirements.txt`
 2. Configure environment: `cp .env.example .env`
 3. Run the CLI: `python cli.py`
