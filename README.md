@@ -1,4 +1,4 @@
-# bjak-engineering-manager-vaibhavsomani
+# bjak-lead-engineer-vaibhavsomani
 
 A grounded, zero-hallucination AI assistant representing my professional background.
 
